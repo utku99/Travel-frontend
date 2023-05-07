@@ -1,7 +1,7 @@
 export const headerItems = [
   {
     title: "Home",
-    url: "/",
+    url: "/Travel-frontend",
     cName:"nav-links",
     icon:"fa-solid fa-house-user"
   },
